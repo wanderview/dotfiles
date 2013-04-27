@@ -1,0 +1,17 @@
+[ui]
+username = Ben Kelly <ben@wanderview.com>
+
+[defaults]
+qnew = -Ue
+
+[pager]
+pager = less
+
+[extensions]
+mq =
+pager =
+
+[diff]
+git = 1
+showfunc = 1
+unified = 8
