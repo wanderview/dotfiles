@@ -1,3 +1,4 @@
+shell -bash
 defscrollback 9999
 hardstatus alwayslastline "%m/%d/%y %C%A - Window %n - %t"
 startup_message off
