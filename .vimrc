@@ -1,5 +1,7 @@
 fixdel
 
+au BufNewFile,BufRead *.jsm set filetype=javascript
+
 set softtabstop=2
 set shiftwidth=2
 set expandtab
