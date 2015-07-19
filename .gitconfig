@@ -3,3 +3,5 @@ name = Ben Kelly
 email = ben@wanderview.com
 [color]
 ui = auto
+[push]
+	default = simple
