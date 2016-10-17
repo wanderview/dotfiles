@@ -1,3 +1,7 @@
+[trusted]
+users = bkelly,root
+groups = bkelly,root
+
 [ui]
 username = Ben Kelly <ben@wanderview.com>
 
