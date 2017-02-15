@@ -7,6 +7,8 @@ export HISTFILESIZE=9999
 
 export I_PREFER_A_SUBOPTIMAL_MERCURIAL_EXPERIENCE=1
 
+source ~/.hg-completion.bash
+
 if [ -f ~/.bash_vars_local ]; then
   . ~/.bash_vars_local
 fi
